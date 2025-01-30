@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "turbo-game-app",
   "private": true,
   "scripts": {
     "build": "turbo build",
